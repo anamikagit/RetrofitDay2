@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitDay2</string>
+    <string name="display">Select Category</string>
+    <string name="submitDisplay">Submit Post Call</string>
+    <string name="submitDisplay1">Submit Get call</string>
+</resources>
